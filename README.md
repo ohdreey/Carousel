@@ -8,7 +8,7 @@ Fonctionnalités implémentées (carrousel + boutons)
 
 Tech stack (Vue.js, CSS)
 
-[Description de l'image](assets/screen.png)
+![Aperçu du carrousel](https://github.com/ohdreey/Carousel/blob/main/src/assets/screen.png?raw=true)
 =======
 # semaine2
 
